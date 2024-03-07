@@ -1,0 +1,96 @@
+header{ 
+    position: absolute; 
+    top: -10px; 
+    left: 40px; 
+    width: 1850px; 
+    padding-top: 10px; 
+    padding-bottom: 100px; 
+    background-color: aquamarine; 
+    text-decoration: none;
+     
+    #a1{ 
+        position: absolute;
+    font-size: 20px; 
+    color: blue; 
+    left: 1200px; 
+    text-decoration: none;
+     
+    } 
+    #a1:hover{
+    background-color:chartreuse;
+    color: darkcyan;
+
+
+    }
+    #a2{ 
+        position: absolute; 
+    font-size: 20px; 
+    color: blue; 
+    left: 1370px; 
+    top: 12px; 
+    text-decoration: none;
+     
+     
+     
+         
+    } 
+    #a2:hover{
+   background-color: chartreuse;
+   color: darkcyan;
+
+
+    }
+    #a3{ 
+        position: absolute; 
+    font-size: 20px; 
+    color: blue; 
+    left: 1470px; 
+    top: 12px; 
+             text-decoration: none;
+    } 
+
+    #a3:hover{
+background-color: chartreuse;
+color: darkcyan;
+
+    }
+
+    #i1{
+position: absolute;
+left: 0px;
+top: 10px;
+
+    }
+     
+    } 
+
+    #i2{
+position: absolute;
+top: 100px;
+background-color: rgb(209, 208, 208);
+left: 40px;
+padding-right: 850px;
+
+
+    }
+
+     
+    footer{ 
+    position: absolute; 
+    background-color: aquamarine; 
+    top: 890px; 
+    left: 40px; 
+    width: 1850px; 
+     
+    #p1{ 
+    font-size: 20px; 
+    padding-left: 1550px; 
+    color: blue; 
+     
+     
+    } 
+   
+     
+     
+    }
+    
